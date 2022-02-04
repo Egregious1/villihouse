@@ -66,3 +66,11 @@ nav ul li a{
 nav ul li a:hover{
     color: #683aa4;
 }
+
+/* link branding */
+.linkbrand {
+    font-weight: bold;
+    text-align: justify;
+    font-size: .5em;
+    text-transform: uppercase;
+}
